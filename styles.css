@@ -1,0 +1,15 @@
+
+img {
+width:150px;
+height:250px;
+}
+h1{
+	color: red;
+	size: 10pt;
+text-align: center;
+}
+p{
+	font-family: arial;
+	font-size: 40 px;
+	color: green;
+}
